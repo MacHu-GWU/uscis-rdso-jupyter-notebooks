@@ -1,4 +1,7 @@
 # User Settings
+rdso_ml_venv/
+rdso_ml.egg-info/
+rdso_ml-*/
 
 
 # Byte-compiled / optimized / DLL files
@@ -88,9 +91,6 @@ celerybeat-schedule
 venv/
 ENV/
 
-
-# serverless
-.serverless/
 
 
 # Spyder project settings
