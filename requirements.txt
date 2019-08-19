@@ -1,0 +1,9 @@
+boto3
+pathlib_mate==0.0.15
+numpy==1.17.0
+pandas==0.23.4
+scikit-learn==0.21.3
+nltk==3.4.4
+stop_words==2018.7.23
+wordcloud==1.5.1
+matplotlib==3.1.1
